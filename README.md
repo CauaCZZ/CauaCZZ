@@ -21,7 +21,7 @@ Atualmente estou focado em desenvolver uma base sólida em programação, com o 
 *Esses projetos foram essenciais para consolidar meu conhecimento em estruturas de dados, funções e manipulação de arrays:*
 
 1. [**Amigo Secreto**](https://github.com/CauaCZZ/amigo-secreto) - Sorteio e validação de nomes.
-2. [**Sorteador de Números**](https://github.com/CauaCZZ/sorteador-numeros) - Parâmetros e números aleatórios.
+2. [**Sorteador de Números**](https://github.com/CauaCZZ/numero-secretos) - Parâmetros e números aleatórios.
 
 ---
 
