@@ -25,4 +25,3 @@ Atualmente estou focado em desenvolver uma base sólida em programação, com o 
 
 ---
 
-*“O aprendizado é contínuo e a lógica é a base de tudo.”*
