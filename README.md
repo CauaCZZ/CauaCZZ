@@ -30,14 +30,14 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Java"
     title="Java" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -45,7 +45,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -53,7 +53,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -62,7 +62,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -70,12 +70,14 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Python" 
     title="Python"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
