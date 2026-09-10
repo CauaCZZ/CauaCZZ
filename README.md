@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá, eu sou o Cauã!
+# 👩🏻‍💻 Cauã 
 
 **`Estudante de Desenvolvimento de Software | Java | Construindo minha jornada na programação`**
 
