@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Cauã 
 
-**`Estudante de Desenvolvimento de Software | Java | Construindo minha jornada na programação`**
+**`Desenvolvimento de Software | Java | Construindo minha jornada na programação`**
 
 Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação na UNICSUL. Atualmente, estou aprofundando meus conhecimentos na Alura, desenvolvendo projetos e buscando evoluir constantemente na área de tecnologia
 
@@ -30,14 +30,14 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -45,7 +45,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -53,7 +53,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -62,7 +62,7 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -70,10 +70,28 @@ Me chamo Cauã Cazeu, tenho 20 anos e sou estudante de Ciência da Computação 
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Antigravity" 
+    title="Antigravity"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Google IA Studio" 
+    title="Google IA Studio"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/b52d33f8-071c-4595-9b32-d6b6c014d55f"
+/>
+          
 <br/>
 <br/>
 
